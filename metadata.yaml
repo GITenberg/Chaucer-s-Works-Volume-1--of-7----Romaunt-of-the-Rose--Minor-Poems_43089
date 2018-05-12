@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4590
     wikipedia: http://en.wikipedia.org/wiki/Walter_William_Skeat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43089#Chaucer-s-Works-Volume-1--of-7----Romaunt-of-the-Rose--Minor-Poems
 gutenberg_issued: '2013-07-03'
 gutenberg_type: Text
 identifiers:
